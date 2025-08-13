@@ -2,7 +2,7 @@
 <h3 align="center">Lead Data Engineer | PySpark | Azure Databricks | Big Data | Cloud | SQL</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
 ---
