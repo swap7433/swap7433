@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Swapnil</span></h1>
-<h3 align="center">Lead Data Engineer | PySpark | Azure Databricks | Big Data | Cloud | SQL</h3>
+<h3 align="center">Senior Data Engineer | PySpark | Azure Databricks | Big Data | Cloud | SQL| Python| </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🧾 About Me
-- 📊 **6 years of IT experience**, including **3.7+ years specialized in Data Engineering**
+- 📊 **6 years of IT experience**, including **3.8+ years specialized in Data Engineering**
 - 🔥 Expert in **PySpark**, **Azure Databricks**, **Spark SQL**, and **Data Pipeline Development**
 - ☁️ Cloud expertise in **Microsoft Azure** (Data Factory, ADLS Gen2, Databricks, Synapse Analytics, Unity Catalog)
 - ⚡ Experience with **streaming & batch pipelines** using **Apache Kafka** (Consumer Groups, Kafka Streams) and **Delta Lake**
